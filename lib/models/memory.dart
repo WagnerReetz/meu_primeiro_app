@@ -1,5 +1,3 @@
-import 'package:flutter/services.dart';
-
 class Memory {
   static const operations = const ['%', '/', 'x', '-', '+', '='];
 
